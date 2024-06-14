@@ -16,7 +16,9 @@ task-manager/
 # Create .evn file
 
 PORT=8000
+
 MONGO_URI=mongodb+srv://<username>:<password>@cluster23055.cst9q8g.mongodb.net/
+
 JWT_SECRET=anything_that_you_want
 
 
